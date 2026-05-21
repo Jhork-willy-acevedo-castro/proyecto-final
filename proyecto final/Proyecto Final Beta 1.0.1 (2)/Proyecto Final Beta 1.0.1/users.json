@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "user": "admin1",
+            "password": "adm",
+            "role": "admin",
+            "session": true
+        },
+        {
+            "user": "sup1",
+            "password": "123",
+            "role": "supervisor",
+            "session": true
+        },
+        {
+            "user": "viewer1",
+            "password": "111",
+            "role": "viewer",
+            "session": false
+        }
+    ]
+}

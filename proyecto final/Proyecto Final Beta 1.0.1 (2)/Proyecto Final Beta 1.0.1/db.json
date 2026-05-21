@@ -1,0 +1,36 @@
+{
+    "contracts": [
+        {
+            "number": "C-1001",
+            "contractor": "Ana Torres",
+            "object": "Mantenimiento de equipos",
+            "start": "01/02/2026",
+            "end": "01/05/2026",
+            "value": 3500000.0,
+            "supervisor": "Carlos Mej\u00eda",
+            "status": "ACTIVO",
+            "email": "ana.torres@example.com",
+            "trackings": [
+                {
+                    "id": 1,
+                    "date": "15/02/2026",
+                    "desc": "Revisi\u00f3n inicial",
+                    "progress": 10,
+                    "obs": "Sin novedades"
+                }
+            ]
+        },
+        {
+            "number": "02",
+            "contractor": "fernanda",
+            "object": "labo",
+            "start": "20/07/2000",
+            "end": "15/07/2020",
+            "value": 1200.0,
+            "supervisor": "Sandra",
+            "status": "ACTIVO",
+            "email": "f@gmail.com",
+            "trackings": []
+        }
+    ]
+}
